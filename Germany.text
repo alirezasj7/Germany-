@@ -1,6 +1,6 @@
-trojan://wWCxw3CLJY@20.93.119.123:2052?type=grpc&serviceName=&authority=&security=none#irancell
-trojan://oD8EjCN7Lc@20.93.119.123:2083?type=tcp&security=none#adsl
-trojan://BdEfwpL0cd@[2a01:111:f100:a000::5ef5:6823]:443?type=tcp&security=none#rightel-v6
-vless://d1ef36b3-5421-4f25-b491-ea622fe34a83@20.93.119.123:80?type=xhttp&path=%2F&host=&mode=auto&security=none#For%20All
-vless://9ba4a3e9-7335-4e13-8a45-a5f50e28da7e@[2a01:111:f100:a000::5ef5:6823]:8443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#For%20All-v6
+trojan://wWCxw3CLJY@20.93.119.123:2052?type=grpc&serviceName=&authority=&security=none#irancell-ireland
+trojan://oD8EjCN7Lc@20.93.119.123:2083?type=tcp&security=none#adsl-ireland
+trojan://BdEfwpL0cd@[2a01:111:f100:a000::5ef5:6823]:443?type=tcp&security=none#rightel-v6-ireland
+vless://d1ef36b3-5421-4f25-b491-ea622fe34a83@20.93.119.123:80?type=xhttp&path=%2F&host=&mode=auto&security=none#For%20All-ireland
+vless://9ba4a3e9-7335-4e13-8a45-a5f50e28da7e@[2a01:111:f100:a000::5ef5:6823]:8443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#For%20All-v6-ireland
 

@@ -1,0 +1,15 @@
+{
+      "type": "hysteria2",
+      "tag": "🔒 HYSTERIA-UDP 🇳🇱 NL-[2a14:3f87:f001:1a::a]:35000 § 5",
+      "server": "2a14:3f87:f001:1a::a",
+      "server_port": 35000,
+      "obfs":       {
+        "type": "salamander",
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+      },
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
+      "tls":       {
+        "enabled": true,
+        "server_name": "pichondan.com"
+      }
+    },

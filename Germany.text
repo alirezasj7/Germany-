@@ -1,6 +1,0 @@
-trojan://wWCxw3CLJY@178.253.55.30:2052?type=grpc&serviceName=&authority=&security=none#irancell
-trojan://oD8EjCN7Lc@178.253.55.30:2083?type=tcp&security=none#adsl
-trojan://BdEfwpL0cd@[2a12:5940:da7d::2]:443?type=tcp&security=none#rightel-v6
-vless://d1ef36b3-5421-4f25-b491-ea622fe34a83@178.253.55.30:80?type=xhttp&path=%2F&host=&mode=auto&security=none#For%20All
-vless://9ba4a3e9-7335-4e13-8a45-a5f50e28da7e@[2a12:5940:da7d::2]:8443?type=xhttp&path=%2F&host=&mode=stream-one&security=none#For%20All-v6
-
